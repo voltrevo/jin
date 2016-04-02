@@ -1,0 +1,21 @@
+{
+  "name": "jin",
+  "version": "0.0.0",
+  "description": "Javascript Import Notation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "import",
+    "notation",
+    "json",
+    "extension"
+  ],
+  "author": "Andrew Morris",
+  "license": "MIT",
+  "dependencies": {
+    "voltrevo-parser": "^0.1.3"
+  }
+}
